@@ -1,6 +1,6 @@
-### Hi, I'm Greg. I build LLM applications and agents on AWS.
+### Hi, I'm Greg.
 
-I ship the part that decides whether an agent is a demo or a product: retrieval that grounds every answer, output that code checks before anyone trusts it, evals that measure quality, and hard limits on access and spend. 8+ years shipping production web apps before that.
+I'm an AI engineer in South Florida. I was a web developer for 8 years, and for the last two I've been building apps on top of LLMs and hosting them on AWS and Vercel. Everything below is live, so click around.
 
 **AWS Solutions Architect Associate** · **HashiCorp Terraform Associate** · **Google Cloud Associate Cloud Engineer**
 
